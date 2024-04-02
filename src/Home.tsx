@@ -16,7 +16,7 @@ export function Home() {
                 <Alert
                     closable
                     severity="success"
-                    title="Success: This is the title"
+                    title="Success: Hello world!!!!"
                     description="This is the description"
                 />
             </div>
